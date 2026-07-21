@@ -6,6 +6,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Draken970/Dsa/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Draken970/Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1004-max-consecutive-ones-iii](https://github.com/Draken970/Dsa/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -31,4 +32,8 @@ My LeetCode solutions
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Draken970/Dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Draken970/Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
