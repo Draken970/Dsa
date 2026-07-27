@@ -6,6 +6,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Draken970/Dsa/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Draken970/Dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Draken970/Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Draken970/Dsa/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Draken970/Dsa/tree/master/1004-max-consecutive-ones-iii) |
@@ -42,6 +43,7 @@ My LeetCode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Draken970/Dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Draken970/Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Draken970/Dsa/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
@@ -60,4 +62,8 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Draken970/Dsa/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Draken970/Dsa/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
