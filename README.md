@@ -75,6 +75,7 @@ My LeetCode solutions
 | [0011-container-with-most-water](https://github.com/Draken970/Dsa/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/Draken970/Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Draken970/Dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Draken970/Dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -84,4 +85,5 @@ My LeetCode solutions
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Draken970/Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Draken970/Dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Draken970/Dsa/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
