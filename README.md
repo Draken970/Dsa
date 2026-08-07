@@ -96,5 +96,14 @@ My LeetCode solutions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Draken970/Dsa/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Draken970/Dsa/tree/master/0234-palindrome-linked-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Draken970/Dsa/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Draken970/Dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
