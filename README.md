@@ -10,6 +10,7 @@ My LeetCode solutions
 | [0053-maximum-subarray](https://github.com/Draken970/Dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Draken970/Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Draken970/Dsa/tree/master/0268-missing-number) |
+| [0739-daily-temperatures](https://github.com/Draken970/Dsa/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/Draken970/Dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Draken970/Dsa/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Hash Table
@@ -99,6 +100,7 @@ My LeetCode solutions
 | [0020-valid-parentheses](https://github.com/Draken970/Dsa/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Draken970/Dsa/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Draken970/Dsa/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Draken970/Dsa/tree/master/0739-daily-temperatures) |
 ## String
 |  |
 | ------- |
@@ -111,4 +113,8 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Draken970/Dsa/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Draken970/Dsa/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
