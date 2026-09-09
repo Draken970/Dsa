@@ -39,6 +39,7 @@ My LeetCode solutions
 | ------- |
 | [0268-missing-number](https://github.com/Draken970/Dsa/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Draken970/Dsa/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Draken970/Dsa/tree/master/1137-n-th-tribonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Draken970/Dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -50,6 +51,7 @@ My LeetCode solutions
 | [0053-maximum-subarray](https://github.com/Draken970/Dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Draken970/Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Draken970/Dsa/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Draken970/Dsa/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,6 +71,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Draken970/Dsa/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Draken970/Dsa/tree/master/1137-n-th-tribonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
