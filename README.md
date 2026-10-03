@@ -52,6 +52,7 @@ My LeetCode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Draken970/Dsa/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Draken970/Dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Draken970/Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Draken970/Dsa/tree/master/0509-fibonacci-number) |
@@ -105,6 +106,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Draken970/Dsa/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Draken970/Dsa/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/Draken970/Dsa/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Draken970/Dsa/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Draken970/Dsa/tree/master/0739-daily-temperatures) |
@@ -112,10 +114,12 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Draken970/Dsa/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Draken970/Dsa/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Draken970/Dsa/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Draken970/Dsa/tree/master/0032-longest-valid-parentheses) |
 ## Design
 |  |
 | ------- |
