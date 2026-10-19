@@ -9,6 +9,7 @@ My LeetCode solutions
 | [0011-container-with-most-water](https://github.com/Draken970/Dsa/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Draken970/Dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Draken970/Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Draken970/Dsa/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Draken970/Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Draken970/Dsa/tree/master/0268-missing-number) |
 | [0739-daily-temperatures](https://github.com/Draken970/Dsa/tree/master/0739-daily-temperatures) |
@@ -21,6 +22,7 @@ My LeetCode solutions
 | [0001-two-sum](https://github.com/Draken970/Dsa/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Draken970/Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Draken970/Dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Draken970/Dsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Draken970/Dsa/tree/master/0268-missing-number) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Draken970/Dsa/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Binary Search
@@ -66,6 +68,7 @@ My LeetCode solutions
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Draken970/Dsa/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Draken970/Dsa/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Draken970/Dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Recursion
@@ -84,6 +87,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Draken970/Dsa/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Draken970/Dsa/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,4 +135,12 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Draken970/Dsa/tree/master/0739-daily-temperatures) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Draken970/Dsa/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Draken970/Dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
