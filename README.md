@@ -13,6 +13,7 @@ My LeetCode solutions
 | [0268-missing-number](https://github.com/Draken970/Dsa/tree/master/0268-missing-number) |
 | [0739-daily-temperatures](https://github.com/Draken970/Dsa/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/Draken970/Dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Draken970/Dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Draken970/Dsa/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ My LeetCode solutions
 | [0209-minimum-size-subarray-sum](https://github.com/Draken970/Dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Draken970/Dsa/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Draken970/Dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Draken970/Dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -65,6 +67,7 @@ My LeetCode solutions
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Draken970/Dsa/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Draken970/Dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Recursion
 |  |
 | ------- |
